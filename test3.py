@@ -1,1 +1,1 @@
-test3.py
+print("chào an vui vẻ")
