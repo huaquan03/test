@@ -1,1 +1,0 @@
-print("day la test.py")
